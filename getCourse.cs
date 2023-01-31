@@ -22,7 +22,7 @@ namespace register
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'assignment3DataSet.coursetbl' table. You can move, or remove it, as needed.
+           
 
 
             BAL b = new BAL();
